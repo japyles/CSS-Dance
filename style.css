@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #000;
+    overflow: hidden;
+}
+
+p {
+    font-size: 13px;
+    line-height: 10px;
+    font-weight: 900;
+    margin: 0;
+    background: url(girl_walk2.gif) no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+    background-clip: text;
+    text-fill-color: rgba(255, 255, 255, 0);
+}
